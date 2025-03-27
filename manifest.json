@@ -1,0 +1,7 @@
+{
+    "name": "gangangan MoreHead",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "accesorios para la gangangan",
+    "dependencies": ["YMC_MHZ-MoreHead-1.3.0"]
+}
