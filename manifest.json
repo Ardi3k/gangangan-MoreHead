@@ -2,7 +2,7 @@
     "name": "ganganganMoreHead",
     "version_number": "0.1.0",
     "website_url": "https://github.com/Ardi3k/Grangangan-MoreHead",
-    "description": "accesorios para la gangangan",
+    "description": "accesorios para la gangangan. Two new accessories: Whatsapp logo and 1000 yard stare",
     "dependencies": [
         "YMC_MHZ-MoreHead-1.3.0"
     ]
