@@ -1,2 +1,2 @@
 # gangangan-MoreHead
-accesorios para la gangangan. Two new accessories: Whatsapp logo and 1000 yard stare
+accesorios para los reales. three new accessories: Whatsapp logo, 1000 yard stare and tivoli wordl logo
