@@ -1,2 +1,3 @@
 # gangangan-MoreHead
 accesorios para los reales. New accessories: Whatsapp logo, 1000 yard stare, tivoli world logo, B.O.B's hat and Fifer's necklace
+![Image](https://github.com/user-attachments/assets/b99aecd4-0f7d-4ba6-99bc-1bfbd1f354e5)  ![Image](https://github.com/user-attachments/assets/677c71a2-7421-4a7e-a499-c11a326b82e5)  ![Image](https://github.com/user-attachments/assets/b9c3db86-469f-4e06-96f0-0f0a95302c1d)  ![Image](https://github.com/user-attachments/assets/f2e059a3-0016-485d-9880-38066465bb8f)  ![Image](https://github.com/user-attachments/assets/4defad20-fcc2-4ca0-b718-296f8fee9469)
